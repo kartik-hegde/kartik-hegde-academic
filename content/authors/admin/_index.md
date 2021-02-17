@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D. in Computer Science
     institution: University of Illinois at Urbana-Champaign
     year: 2017-Present
   - course: B.Tech in Electronics and Communication Engineering
@@ -67,12 +67,12 @@ email: "kvhegde2@illinois.edu"
 highlight_name: true
 ---
 
-I am a fourth year PhD student in Computer Science advised by Prof. Chris Fletcher.
+I am a fourth year PhD student in Computer Science at UIUC advised by Prof. [Chris Fletcher](http://cwfletcher.net/). I work at the interesection of computer architecture and machine learning: I have designed high-performance processors targeted at different ML workloads, I have built ML tools to make computers more efficient.
 
-Before joining CS@Illinois at UIUC, I worked at ARM. My work at ARM included research on Deep Learning accelerators, SoC design/verification and GPU verification. I received my bachelors from NIT-K Surathkal in 2015 from ECE department, where I was advised by Prof. Sumam David.
+Before joining [CS@Illinois](https://cs.illinois.edu/), I worked at [ARM](www.arm.com), where I had a fantastic opportunity to build real-world products as a design engineer and develop successful prototypes to drive new products as a researcher in industrial R&D. I received my bachelors from [NIT-K Surathkal](www.nitk.ac.in) in 2015 from ECE department, where I was advised by Prof. [Sumam David](https://sumam.nitk.ac.in/).
 
-I am interested in building radically new system architectures containing multiple hardware accelerators to improve the performance/power efficiency of various workloads. I envision a future in computing where the supercomputers will be powered by domain specific massively heterogeneous architectures. Such processors can give unprecedented boost in both performance and power efficiency while helping us build the next generation exascale computers! If that resonates with your thoughts, feel free to drop me a line!
+As a Ph.D. student in computer architecture, I have been fascinated by the fundamental trade-off between specialization and programmability in processors. My core research interest is in finding sweet spots and strongly believe that it is the way forward beyond in post-Moore's era computing. I regularly write about my vision about the future of computing in my blog.
 
-I have tried to pen down my  {{< staticref "media/research_statement.pdf" "newtab" >}}research statement{{< /staticref >}}.
+I am always looking for collaborations, especially motivated undergrads/grads. If you are interested in collaborating, or like any of my prior works and have ideas to advance it, or if you simply want to have a chat, feel free to contact me!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Kartik_Hegde.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Kartik_Hegde.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
