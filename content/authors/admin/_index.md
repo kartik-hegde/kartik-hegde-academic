@@ -73,6 +73,6 @@ Before joining CS@Illinois at UIUC, I worked at ARM. My work at ARM included res
 
 I am interested in building radically new system architectures containing multiple hardware accelerators to improve the performance/power efficiency of various workloads. I envision a future in computing where the supercomputers will be powered by domain specific massively heterogeneous architectures. Such processors can give unprecedented boost in both performance and power efficiency while helping us build the next generation exascale computers! If that resonates with your thoughts, feel free to drop me a line!
 
-I have tried to pen down my  {{< staticref "media/CV_Kartik_Hegde.pdf" "newtab" >}}research statement{{< /staticref >}}.
+I have tried to pen down my  {{< staticref "media/research_statement.pdf" "newtab" >}}research statement{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Kartik_Hegde.pdf" "newtab" >}}resumé{{< /staticref >}}.

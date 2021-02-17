@@ -22,24 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Intern
+    company: Facebook AI Research
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Boston MA
+    date_start: '2020-01-21'
+    date_end: '2020-05-08'
+    description: Developed a novel control paradigm for hardware accelerators targeting irregular workloads such as recommendation systems.
+        
+  - title: Research Intern
+    company: Facebook Reality Labs
+    company_url: ''
+    location: Menlo Park, CA
+    date_start: '2019-05-15'
+    date_end: '2019-08-15'
+    description: Developed Mind Mappings, a gradient-based tool for algorithm-accelerator mapping space search.
+
+  - title: Research Engineer
+    company: ARM Research
+    company_url: ''
+    location: San Jose, CA/Bangalore, KA
+    date_start: '2017-07-01'
+    date_end: '2019-07-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Worked on ARM SoC products with design, intergration, and verification at System/IP Level. 
+        * Lead the first internal research project on edge ML inference accelerator. 
+        * Built the ML accelerator prototype from scratch and demonstrated potential with IoT SoC integration with a fab ready GDS.
+        * Pushed for adoption of the research to product successfully.
 ---
