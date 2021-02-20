@@ -4,6 +4,7 @@ widget: slider
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (section position etc.) ...
+weight: 30
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -11,7 +12,7 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 300px
+height: 600px
 
 
 item:
@@ -28,9 +29,14 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: Read the paper!
-    cta_url: 'https://example.org'
+    cta_url: 'media/Mind_Mappings_ASPLOS2021_CR.pdf'
     cta_icon_pack: fas
     cta_icon: graduation-cap
+  - title: I will be at NVIDIA Research during Summer 2021!
+    align: left
+    overlay_color: '#555'
+    overlay_img: ''
+    overlay_filter: 0.5
   - title: ExTensor Accepted to MICRO 2019!
     content: 'ExTensor is an accelerator for Sparse Tensor Algebra'
     align: left
@@ -43,5 +49,5 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
-    
+
 ---
