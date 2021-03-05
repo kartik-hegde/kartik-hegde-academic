@@ -12,17 +12,17 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 600px
+height: 400px
 
 
 item:
   - title: Mind Mappings accepted to ASPLOS 2021!
-    content: 'Mind Mappings is a first-of-its-kind tool for mapping space search for hardware accelerators using gradient descent.'
+    content: '\n\n Mind Mappings is a first-of-its-kind tool for mapping space search for hardware accelerators using gradient descent. \n\n'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    overlay_color: '#666'  # An HTML color value.
+    overlay_color: '#333'  # An HTML color value.
     overlay_img: bubbles.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
@@ -33,19 +33,19 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: I will be at NVIDIA Research during Summer 2021!
-    align: left
-    overlay_color: '#555'
+    align: center
+    overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
   - title: ExTensor Accepted to MICRO 2019!
     content: 'ExTensor is an accelerator for Sparse Tensor Algebra'
-    align: left
-    overlay_color: '#555'
+    align: center
+    overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
   - title: Received the Facebook Ph.D. Fellowship!
     content: 'Hardware and Software Infrastructure for Machine Learning group'
-    align: right
+    align: center
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5

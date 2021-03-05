@@ -71,7 +71,7 @@ I am a fourth year PhD student in Computer Science at UIUC advised by Prof. [Chr
 
 Before joining [CS@Illinois](https://cs.illinois.edu/), I worked at [ARM](www.arm.com), where I had a fantastic opportunity to build real-world products as a design engineer and develop successful prototypes to drive new products as a researcher in industrial R&D. I received my bachelors from [NIT-K Surathkal](www.nitk.ac.in) in 2015 from the ECE department, where I was advised by Prof. [Sumam David](https://sumam.nitk.ac.in/).
 
-As a Ph.D. student in computer architecture, I have been fascinated by the fundamental trade-off between specialization and programmability in processors. My core research interest is in finding sweet spots in that spectrum and strongly believe that it is the way forward beyond in post-Moore's era computing. I regularly write about my vision about the future of computing in my blog.
+<!-- As a Ph.D. student in computer architecture, I have been fascinated by the fundamental trade-off between specialization and programmability in processors. My core research interest is in finding sweet spots in that spectrum and strongly believe that it is the way forward beyond in post-Moore's era computing. I regularly write about my vision about the future of computing in my blog. -->
 
 I am always looking for collaborations, especially motivated undergrads/grads. If you are interested in collaborating, or like any of my prior works and have ideas to advance it, or if you simply want to have a chat, feel free to contact me!
 
