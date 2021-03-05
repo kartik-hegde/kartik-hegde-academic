@@ -1,5 +1,5 @@
 ---
-title: "ExTensor: An Accelerator for Sparse Tensor Algebra"
+title: "Morph: Flexible acceleration for 3d cnn-based video understanding"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,6 +26,9 @@ doi: "https://doi.org/10.1109/MICRO.2018.00080"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
+
+# Order that this section appears on the page.
+weight: 3
 
 # Publication name and optional abbreviated publication name.
 publication: In MICRO 18

@@ -1,4 +1,11 @@
 ---
+title: "Recent Publications"  # Add a page title.
+summary: "Here is a list of my recent publications."  # Add a page description.
+date: "2021-03-04T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
+---
+
+<!-- ---
 title: Publications
 cms_exclude: true
 
@@ -13,4 +20,4 @@ view: 4
 header:
   caption: ""
   image: ""
----
+--- -->
