@@ -45,7 +45,7 @@ social:
   link: https://twitter.com/hegdekartik7
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://https://scholar.google.com/citations?user=NlRHHYkAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=NlRHHYkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/kartik-hegde
