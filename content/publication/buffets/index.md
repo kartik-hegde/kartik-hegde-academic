@@ -1,25 +1,34 @@
 ---
-title: "Morph: Flexible acceleration for 3d cnn-based video understanding"
+title: "Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Michael Pellauer
+- Yakun Sophia Shao
+- Jason Clemons 
+- Neal Crago
 - admin
-- Rohit Agrawal
-- Yulun Yao
+- Rangharajan Ventakesan
+- Stephen W. Keckler
 - Christopher W Fletcher
+- Joel Emer
+
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2018-10-16T00:00:00Z"
-doi: "https://doi.org/10.1109/MICRO.2018.00080"
+date: "2019-04-13T00:00:00Z"
+doi: "https://doi.org/10.1145/3297858.3304025"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-01-01T00:00:00Z"
+
+# Order that this section appears on the page.
+weight: 2
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,17 +36,14 @@ doi: "https://doi.org/10.1109/MICRO.2018.00080"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-# Order that this section appears on the page.
-weight: 10
-
 # Publication name and optional abbreviated publication name.
-publication: In MICRO 18
-publication_short: In *MICRO'18*
+publication: In ASPLOS 19
+publication_short: In *ASPLOS'19*
 
-abstract:  The past several years have seen both an explosion in the use of Convolutional Neural Networks (CNNs) and the design of accelerators to make CNN inference practical. In the architecture community, the lion share of effort has targeted CNN inference for image recognition. The closely related problem of video recognition has received far less attention as an accelerator target. This is surprising, as video recognition is more compu- tationally intensive than image recognition, and video traffic is predicted to be the majority of internet traffic in the coming years. This paper fills the gap between algorithmic and hardware advances for video recognition by providing a design space explo- ration and flexible architecture for accelerating 3D Convolutional Neural Networks (3D CNNs)—the core kernel in modern video understanding. When compared to (2D) CNNs used for image recognition, efficiently accelerating 3D CNNs poses a significant engineering challenge due to their large (and variable over time) memory footprint and higher dimensionality
+abstract:  Accelerators spend significant area and effort on custom onchip buffering. Unfortunately, these solutions are strongly tied to particular designs, hampering re-usability across other accelerators or domains. We present buffets, an efficient and composable storage idiom for the needs of accelerators that is independent of any particular design. Buffets have several distinguishing characteristics, including efficient decoupled fills and accesses with fine-grained synchronization, hierarchical composition, and efficient multi-casting. We implement buffets in RTL and show that they only add 2% control overhead over an 8KB RAM. When compared with DMAmanaged double-buffered scratchpads and caches across a range of workloads, buffets improve energy-delay-product by 1.53× and 5.39×, respectively.
 
 # Summary. An optional shortened abstract.
-summary: Morph is a flexible hardware accelerator for 3D-CNNs, a key workload used in video understanding. Key insight behind the design is to design a flexible hardware that allows high degrees of flexibility that allows different mappings of 3D-CNNs that maximizes performance for the given layer of 3D-CNN.. 
+summary: A key issue in hardware accelerator design is re-usability of designs across different accelerators. With Buffets, we present a reusable, composable, and efficient storage idiom for programmable hardware accelerators.
 
 tags: []
 
@@ -49,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'media/Morph_final_CR.pdf'
+url_pdf: 'media/buffet_ASPLOS19.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,7 +67,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Tiled 3D-Convolution'
+  caption: 'Buffet Storage Idiom'
   focal_point: ""
   preview_only: false
 

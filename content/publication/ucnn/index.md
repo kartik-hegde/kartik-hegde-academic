@@ -24,7 +24,7 @@ doi: "https://doi.org/10.1109/ISCA.2018.00062"
 # publishDate: "2021-01-01T00:00:00Z"
 
 # Order that this section appears on the page.
-weight: 4
+weight: 11
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -82,13 +82,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
