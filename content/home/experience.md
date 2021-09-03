@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+    company: NVIDIA Research
+    company_url: 'https://www.nvidia.com/en-us/research/'
+    location: Remote
+    date_start: '2021-05-16'
+    date_end: '2021-08-13'
+    description: Developed a novel programming paradigm to enable high-performance kernels for sparse tensor algebra kernels that are agnostic to data compression formats.
+  - title: Research Intern
     company: Facebook AI Research
     company_url: ''
     location: Boston MA
