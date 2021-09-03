@@ -67,7 +67,10 @@ email: "kvhegde2@illinois.edu"
 highlight_name: true
 ---
 
-I am a fourth year PhD student in Computer Science at UIUC advised by Prof. [Chris Fletcher](http://cwfletcher.net/). I work at the interesection of computer architecture and machine learning: I have designed high-performance processors targeted at different ML workloads, I have built ML tools to make computers more efficient.
+I am a fifth year PhD student in Computer Science at UIUC advised by Prof. [Chris Fletcher](http://cwfletcher.net/). I work at the interesection of computer architecture and machine learning: I have designed high-performance processors targeted at different ML workloads, I have built ML tools to make computers more efficient.
+
+During my PhD, I was fortunate to receive the 2019 [Facebook PhD fellowship](https://research.fb.com/fellows/hegde-kartik/) for Hardware & Software infra for ML.
+I have also been lucky to have had the opportunity to collaborate with researchers from various backgrounds, spanning industry and academia. For more details about my research, see [here](https://www.kartikhegde.net/publication/).
 
 Before joining [CS@Illinois](https://cs.illinois.edu/), I worked at [ARM](www.arm.com), where I had a fantastic opportunity to build real-world products as a design engineer and develop successful prototypes to drive new products as a researcher in industrial R&D. I received my bachelors from [NIT-K Surathkal](www.nitk.ac.in) in 2015 from the ECE department, where I was advised by Prof. [Sumam David](https://sumam.nitk.ac.in/).
 

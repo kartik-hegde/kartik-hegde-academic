@@ -16,8 +16,8 @@ height: 400px
 
 
 item:
-  - title: Mind Mappings accepted to ASPLOS 2021!
-    content: '\n\n Mind Mappings is a first-of-its-kind tool for mapping space search for hardware accelerators using gradient descent. \n\n'
+  - title: Mind Mappings Open Source Release Available!
+    content: 'Mind Mappings is a first-of-its-kind tool for mapping space search for hardware accelerators using gradient descent. '
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -28,8 +28,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Read the paper!
-    cta_url: 'media/Mind_Mappings_ASPLOS2021_CR.pdf'
+    cta_label: Open Source Release
+    cta_url: 'https://github.com/kartik-hegde/mindmappings'
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: I will be at NVIDIA Research during Summer 2021!
