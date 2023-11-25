@@ -6,12 +6,12 @@ title: Kartik Hegde
 superuser: true
 
 # Role/position/tagline
-role: CS PhD Student at UIUC
+role: Building a Stealth AI Startup
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Illinois at Urbana-Champaign
-  url: https://www.illinois.edu/
+- name: Allen Institute for AI
+  url: https://www.ai2incubator.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in developing high-performance domain-specific programmable processors for modern data centres and cloud computing.
@@ -27,7 +27,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: University of Illinois at Urbana-Champaign
-    year: 2017-Present
+    year: 2017-2022
   - course: B.Tech in Electronics and Communication Engineering
     institution: National Institute of Technology Karnataka, Surathkal
     year: 2011-2015
@@ -67,7 +67,9 @@ email: "kvhegde2@illinois.edu"
 highlight_name: true
 ---
 
-I am a fifth year PhD student in Computer Science at UIUC advised by Prof. [Chris Fletcher](http://cwfletcher.net/). I work at the interesection of computer architecture and machine learning: I have designed high-performance processors targeted at different ML workloads, I have built ML tools to make computers more efficient.
+I am currently an entrepreneur-in-residence at the [Allen Institute for AI](https://www.ai2incubator.com/), where we are reimagining the future of chip design. Very exciting updates soon! We are also hiring! If you are interested in working with us, drop me an email with your CV.
+
+I completed my PhD at UIUC CS, advised by Prof. [Chris Fletcher](http://cwfletcher.net/). My research was at the interesection of computer architecture and machine learning: I have designed high-performance processors targeted at different ML workloads, I have built ML tools to make computers more efficient.
 
 During my PhD, I was fortunate to receive the 2019 [Facebook PhD fellowship](https://research.fb.com/fellows/hegde-kartik/) for Hardware & Software infra for ML.
 I have also been lucky to have had the opportunity to collaborate with researchers from various backgrounds, spanning industry and academia. For more details about my research, see [here](https://www.kartikhegde.net/publication/).
@@ -76,6 +78,6 @@ Before joining [CS@Illinois](https://cs.illinois.edu/), I worked at [ARM](www.ar
 
 <!-- As a Ph.D. student in computer architecture, I have been fascinated by the fundamental trade-off between specialization and programmability in processors. My core research interest is in finding sweet spots in that spectrum and strongly believe that it is the way forward beyond in post-Moore's era computing. I regularly write about my vision about the future of computing in my blog. -->
 
-I am always looking for collaborations, especially motivated undergrads/grads. If you are interested in collaborating, or like any of my prior works and have ideas to advance it, or if you simply want to have a chat, feel free to contact me!
+<!-- I am always looking for collaborations, especially motivated undergrads/grads. If you are interested in collaborating, or like any of my prior works and have ideas to advance it, or if you simply want to have a chat, feel free to contact me! -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Kartik_Hegde.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
