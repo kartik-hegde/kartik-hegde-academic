@@ -89,15 +89,15 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kvhegde2@illinois.edu"
-phone = "217 819 7789"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "201 W Green St Apt 201", city = "Champaign", region = "IL", postcode = "61820", country = "United States", country_code = "US"}
+address = {street = "33 N 1st St", city = "Campbell", region = "CA", postcode = "95008", country = "United States", country_code = "US"}
 
 # Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.110142", longitude = "-88.246072"}
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom. , 
+coordinates = {latitude = "37.287925048306384", longitude = "-121.94525235309287"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
