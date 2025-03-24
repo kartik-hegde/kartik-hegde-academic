@@ -6,12 +6,12 @@ title: Kartik Hegde
 superuser: true
 
 # Role/position/tagline
-role: Building a Stealth AI Startup
+role: Founder and CEO at ChipStack
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Allen Institute for AI
-  url: https://www.ai2incubator.com/
+- name: ChipStack
+  url: https://www.chipstack.ai/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in developing high-performance domain-specific programmable processors for modern data centres and cloud computing.
@@ -67,9 +67,9 @@ email: "kvhegde2@illinois.edu"
 highlight_name: true
 ---
 
-I am currently an entrepreneur-in-residence at the [Allen Institute for AI](https://www.ai2incubator.com/), where we are reimagining the future of chip design. Very exciting updates soon! We are also hiring! If you are interested in working with us, drop me an email with your CV.
+I currently work at [ChipStack](https://www.chipstack.ai), where we are building AI agents to address the core bottlenecks in chip design. We are a strong team of ML researchers, chip designers, and software engineers. We are also hiring! If you are interested in working with us, drop me an email with your CV.
 
-I completed my PhD at UIUC CS, advised by Prof. [Chris Fletcher](http://cwfletcher.net/). My research was at the interesection of computer architecture and machine learning: I have designed high-performance processors targeted at different ML workloads, I have built ML tools to make computers more efficient.
+Prior to ChipStack, I completed my PhD at UIUC CS, advised by Prof. [Chris Fletcher](http://cwfletcher.net/). My research was at the interesection of computer architecture and machine learning: I have designed high-performance processors targeted at different ML workloads, I have built ML tools to make computers more efficient.
 
 During my PhD, I was fortunate to receive the 2019 [Facebook PhD fellowship](https://research.fb.com/fellows/hegde-kartik/) for Hardware & Software infra for ML.
 I have also been lucky to have had the opportunity to collaborate with researchers from various backgrounds, spanning industry and academia. For more details about my research, see [here](https://www.kartikhegde.net/publication/).
