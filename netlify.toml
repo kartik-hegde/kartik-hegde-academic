@@ -15,6 +15,25 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+# Keep Google's required homepage check and sampled legacy pages to one hop.
+[[redirects]]
+  from = "/"
+  to = "https://www.kartikhegde.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/getting-started/"
+  to = "https://www.kartikhegde.com/post/getting-started"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/publication/"
+  to = "https://www.kartikhegde.com/research"
+  status = 301
+  force = true
+
 # Send the legacy publication pages directly to their final destinations so
 # existing backlinks do not pass through an extra redirect on the new site.
 [[redirects]]
