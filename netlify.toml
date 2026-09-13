@@ -14,3 +14,60 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+# Send the legacy publication pages directly to their final destinations so
+# existing backlinks do not pass through an extra redirect on the new site.
+[[redirects]]
+  from = "/publication/mindmappings/"
+  to = "https://www.kartikhegde.com/papers/mind-mappings"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/publication/extensor/"
+  to = "https://www.kartikhegde.com/papers/extensor"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/publication/buffets/"
+  to = "https://www.kartikhegde.com/papers/buffets"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/publication/morph/"
+  to = "https://www.kartikhegde.com/papers/morph"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/publication/ucnn/"
+  to = "https://www.kartikhegde.com/papers/ucnn"
+  status = 301
+  force = true
+
+# Preserve every other path. Vercel handles the remaining legacy route map.
+[[redirects]]
+  from = "https://www.kartikhegde.net/*"
+  to = "https://www.kartikhegde.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://kartikhegde.net/*"
+  to = "https://www.kartikhegde.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.kartikhegde.net/*"
+  to = "https://www.kartikhegde.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://kartikhegde.net/*"
+  to = "https://www.kartikhegde.com/:splat"
+  status = 301
+  force = true
